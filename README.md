@@ -12,3 +12,9 @@ A Jupter notebook demonstrating basic computer graphics (CG) techniques and meth
 
 Run it interactively in the browser here:  
 https://mybinder.org/v2/gh/jlcarr/CS_demos/master?filepath=CG_Demo.ipynb  
+
+## NN_demo
+A Jupter notebook demonstrating basic artifical neural networks (NN).  
+
+Run it interactively in the browser here:  
+https://mybinder.org/v2/gh/jlcarr/CS_demos/master?filepath=NN_Demo.ipynb  
