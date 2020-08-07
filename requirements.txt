@@ -14,3 +14,7 @@ pygraphviz==1.5
 networkx==2.4
 
 markovify==0.8.2
+
+pandas==0.25.1
+pycrypto==2.6.1
+PyJWT==1.7.1

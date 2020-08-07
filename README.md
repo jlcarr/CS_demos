@@ -24,3 +24,9 @@ A Jupter notebook demonstrating basic **Markov chains** (MC).
 
 Run it interactively in the browser here:  
 https://mybinder.org/v2/gh/jlcarr/CS_demos/master?filepath=MC_Demo.ipynb  
+
+## Crypto_demo
+A Jupter notebook demonstrating basic **Cryptography** (Crypto).  
+
+Run it interactively in the browser here:  
+https://mybinder.org/v2/gh/jlcarr/CS_demos/master?filepath=Crypto_Demo.ipynb  
