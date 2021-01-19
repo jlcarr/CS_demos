@@ -30,3 +30,9 @@ A Jupter notebook demonstrating basic **Cryptography** (Crypto).
 
 Run it interactively in the browser here:  
 https://mybinder.org/v2/gh/jlcarr/CS_demos/master?filepath=Crypto_Demo.ipynb  
+
+## FDM_demo
+A Jupter notebook demonstrating basic **Finite Difference Methods** (FDM).  
+
+Run it interactively in the browser here:  
+https://mybinder.org/v2/gh/jlcarr/CS_demos/master?filepath=FDM_Demo.ipynb  
